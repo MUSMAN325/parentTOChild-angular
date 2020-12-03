@@ -1,0 +1,10 @@
+input{
+    width: 500px;
+    height: 40px;
+    border: 2px solid wheat;
+    
+}
+ul li{
+   
+    list-style: none;
+}
